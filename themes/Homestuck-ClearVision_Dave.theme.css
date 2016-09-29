@@ -1,5 +1,5 @@
-//META{"name":"ClearVision_Sapphire","description":"A chilly, blue theme with customizable colors & background!</br> Based on <a href='https://github.com/0mniscient/Discord-Themes/tree/master/Themes' target='_new'>Discord ReBorn</a> by <a href='https://github.com/0mniscient' target='_new'>@Omniscient</a> & <a href='https://github.com/cosmicsalad/Discord-Themes-and-Plugins/tree/master/themes/DarkMatter' target='_new'>DarkMatter</a> by <a href='https://github.com/cosmicsalad' target='_new'>@Hammock</a> <span style='position: absolute; bottom: 0; left: 0;'>Links: <b><a href='https://git.io/v6BHO' target='_new'>Github</a></b> | <b><a href='https://discord.gg/FtYVPky' target='_new'>Discord</a></b></span> <span style='position: absolute; bottom: 0; right: 14px;'>By <b><a href='https://github.com/Zerthox' target='_new'>@Zerthox</a></b></span>","author":"Zerthox","version":"3"}*//{}
-/* "ClearVision - Sapphire v3" by @Zerthox */
+//META{"name":"Homestuck-ClearVision_Dave","description":"A raging, red theme with customizable colors & background!</br> Based on <a href='https://github.com/0mniscient/Discord-Themes/tree/master/Themes' target='_new'>Discord ReBorn</a> by <a href='https://github.com/0mniscient' target='_new'>@Omniscient</a> & <a href='https://github.com/cosmicsalad/Discord-Themes-and-Plugins/tree/master/themes/DarkMatter' target='_new'>DarkMatter</a> by <a href='https://github.com/cosmicsalad' target='_new'>@Hammock</a> <span style='position: absolute; bottom: 0; left: 0;'>Links: <b><a href='https://git.io/v6BHO' target='_new'>Github</a></b> | <b><a href='https://discord.gg/FtYVPky' target='_new'>Discord</a></b></span> <span style='position: absolute; bottom: 0; right: 14px;'>By <b><a href='https://github.com/Zerthox' target='_new'>@Zerthox</a></b></span> Modified by Henry for Homestuck","author":"Zerthox / henry232323","version":"3"}*//{}
+/* "ClearVision - Ruby v3" by @Zerthox */
 /* Based on "Discord Reborn v4.30" by @Omniscient & "DarkMatter" by @Hammock */
 
 /* IMPORT CSS FROM GITHUB */
@@ -22,9 +22,9 @@ RemoveShadows theme: https://git.io/v6MuU IMPORTANT: Activate on top of a ClearV
 ===== CUSTOMIZABLE COLORS & BACKGROUND IMAGE =====
 */
 :root {
-	--main-color: #2780e6;
-	--hover-color: #1e63b3;
-	--background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/images/sapphire.jpg); /* IMPORTANT: Link must be HTTPS! */
+	--main-color: #e62727;
+	--hover-color: #b31e1e;
+	--background-image: url(https://67.media.tumblr.com/50322be76419be3282df30773867a595/tumblr_mrjzp2Pu3R1rsy8nao1_1280.png); /* IMPORTANT: Link must be HTTPS! */
 }
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------

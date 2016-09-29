@@ -1,4 +1,4 @@
-//META{"name":"ClearVision_Amethyst","description":"A mystical, purple theme with customizable colors & background!</br> Based on <a href='https://github.com/0mniscient/Discord-Themes/tree/master/Themes' target='_new'>Discord ReBorn</a> by <a href='https://github.com/0mniscient' target='_new'>@Omniscient</a> & <a href='https://github.com/cosmicsalad/Discord-Themes-and-Plugins/tree/master/themes/DarkMatter' target='_new'>DarkMatter</a> by <a href='https://github.com/cosmicsalad' target='_new'>@Hammock</a> <span style='position: absolute; bottom: 0; left: 0;'>Links: <b><a href='https://git.io/v6BHO' target='_new'>Github</a></b> | <b><a href='https://discord.gg/FtYVPky' target='_new'>Discord</a></b></span> <span style='position: absolute; bottom: 0; right: 14px;'>By <b><a href='https://github.com/Zerthox' target='_new'>@Zerthox</a></b></span>","author":"Zerthox","version":"3"}*//{}
+//META{"name":"Homestuck-ClearVision_Rose","description":"A mystical, purple theme with customizable colors & background!</br> Based on <a href='https://github.com/0mniscient/Discord-Themes/tree/master/Themes' target='_new'>Discord ReBorn</a> by <a href='https://github.com/0mniscient' target='_new'>@Omniscient</a> & <a href='https://github.com/cosmicsalad/Discord-Themes-and-Plugins/tree/master/themes/DarkMatter' target='_new'>DarkMatter</a> by <a href='https://github.com/cosmicsalad' target='_new'>@Hammock</a> <span style='position: absolute; bottom: 0; left: 0;'>Links: <b><a href='https://git.io/v6BHO' target='_new'>Github</a></b> | <b><a href='https://discord.gg/FtYVPky' target='_new'>Discord</a></b></span> <span style='position: absolute; bottom: 0; right: 14px;'>By <b><a href='https://github.com/Zerthox' target='_new'>@Zerthox</a></b></span> Modified by henry232323 for Homestuck","author":"Zerthox / henry232323","version":"3"}*//{}
 /* "ClearVision - Amethyst v3" by @Zerthox */
 /* Based on "Discord Reborn v4.30" by @Omniscient & "DarkMatter" by @Hammock */
 
@@ -24,7 +24,7 @@ RemoveShadows theme: https://git.io/v6MuU IMPORTANT: Activate on top of a ClearV
 :root {
 	--main-color: #da27e6;
 	--hover-color: #a71eb3;
-	--background-image: url(https://cdn.rawgit.com/Zerthox/ClearVision/master/images/amethyst.jpg); /* IMPORTANT: Link must be HTTPS! */
+	--background-image: url(https://68.media.tumblr.com/02a9d81f09b441cd5b2ad3538edc16ac/tumblr_mrjzp2Pu3R1rsy8nao4_1280.png); /* IMPORTANT: Link must be HTTPS! */
 }
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------
