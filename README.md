@@ -6,43 +6,14 @@ Join for *update notifications* and *theme support*!
 #Installation & Customization
 Visit the Wiki page to learn more about how to install customize your theme: [ClearVision Wiki](https://github.com/Zerthox/ClearVision/wiki)
 
-#Previews
-##ClearVision - Amber
-####Dark Appearance
-![AmberDark](https://cdn.rawgit.com/Zerthox/ClearVision/2b6b035e22dcd7ba1a95668ed2e35f13a77e3afd/screenshots/amber1.png)
-####Light Appearance
-![AmberLight](https://cdn.rawgit.com/Zerthox/ClearVision/2b6b035e22dcd7ba1a95668ed2e35f13a77e3afd/screenshots/amber2.png)
-####Settings
-![AmberSettings](https://cdn.rawgit.com/Zerthox/ClearVision/2b6b035e22dcd7ba1a95668ed2e35f13a77e3afd/screenshots/amber3.png)
+##Rose / Amethyst
+![Rose](https://raw.githubusercontent.com/henry232323/Homestuck-ClearVision/master/clearvision-rose.JPG)
 
-##ClearVision - Amethyst
-####Dark Appearance
-![AmethystDark](https://cdn.rawgit.com/Zerthox/ClearVision/2b6b035e22dcd7ba1a95668ed2e35f13a77e3afd/screenshots/amethyst1.png)
-####Light Appearance
-![AmethystLight](https://cdn.rawgit.com/Zerthox/ClearVision/2b6b035e22dcd7ba1a95668ed2e35f13a77e3afd/screenshots/amethyst2.jpg)
-####Settings
-![AmethystSettings](https://cdn.rawgit.com/Zerthox/ClearVision/2b6b035e22dcd7ba1a95668ed2e35f13a77e3afd/screenshots/amethyst3.jpg)
+##Dave / Ruby
+![Dave](https://raw.githubusercontent.com/henry232323/Homestuck-ClearVision/master/clearvision-dave.JPG)
 
-##ClearVision - Emerald
-####Dark Appearance
-![EmeraldDark](https://cdn.rawgit.com/Zerthox/ClearVision/2b6b035e22dcd7ba1a95668ed2e35f13a77e3afd/screenshots/emerald1.png)
-####Light Appearance
-![EmeraldLight](https://cdn.rawgit.com/Zerthox/ClearVision/2b6b035e22dcd7ba1a95668ed2e35f13a77e3afd/screenshots/emerald2.jpg)
-####Settings
-![EmeraldSettings](https://cdn.rawgit.com/Zerthox/ClearVision/2b6b035e22dcd7ba1a95668ed2e35f13a77e3afd/screenshots/emerald3.jpg)
+##John / Sapphire
+![John](https://raw.githubusercontent.com/henry232323/Homestuck-ClearVision/master/clearvision-john.JPG)
 
-##ClearVision - Ruby
-####Dark Appearance
-![RubyDark](https://cdn.rawgit.com/Zerthox/ClearVision/2b6b035e22dcd7ba1a95668ed2e35f13a77e3afd/screenshots/ruby1.png)
-####Light Appearance
-![RubyLight](https://cdn.rawgit.com/Zerthox/ClearVision/2b6b035e22dcd7ba1a95668ed2e35f13a77e3afd/screenshots/ruby2.png)
-####Settings
-![RubySettings](https://cdn.rawgit.com/Zerthox/ClearVision/2b6b035e22dcd7ba1a95668ed2e35f13a77e3afd/screenshots/ruby3.png)
-
-##ClearVision - Sapphire
-####Dark Appearance
-![SapphireDark](https://cdn.rawgit.com/Zerthox/ClearVision/2b6b035e22dcd7ba1a95668ed2e35f13a77e3afd/screenshots/sapphire1.png)
-####Light Appearance
-![SapphireLight](https://cdn.rawgit.com/Zerthox/ClearVision/2b6b035e22dcd7ba1a95668ed2e35f13a77e3afd/screenshots/sapphire2.jpg)
-####Settings
-![SapphireSettings](https://cdn.rawgit.com/Zerthox/ClearVision/2b6b035e22dcd7ba1a95668ed2e35f13a77e3afd/screenshots/sapphire3.jpg)
+##Jade / Emerald
+![Jade](https://raw.githubusercontent.com/henry232323/Homestuck-ClearVision/master/clearvision-jade.JPG)
