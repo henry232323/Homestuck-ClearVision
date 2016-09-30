@@ -1,0 +1,31 @@
+//META{"name":"LegendofZelda-ClearVision_Steel","description":"A chilly, blue theme with customizable colors & background!</br> Based on <a href='https://github.com/0mniscient/Discord-Themes/tree/master/Themes' target='_new'>Discord ReBorn</a> by <a href='https://github.com/0mniscient' target='_new'>@Omniscient</a> & <a href='https://github.com/cosmicsalad/Discord-Themes-and-Plugins/tree/master/themes/DarkMatter' target='_new'>DarkMatter</a> by <a href='https://github.com/cosmicsalad' target='_new'>@Hammock</a> <span style='position: absolute; bottom: 0; left: 0;'>Links: <b><a href='https://git.io/v6BHO' target='_new'>Github</a></b> | <b><a href='https://discord.gg/FtYVPky' target='_new'>Discord</a></b></span> <span style='position: absolute; bottom: 0; right: 14px;'>By <b><a href='https://github.com/Zerthox' target='_new'>@Zerthox</a></b></span> Modified by henry232323 for Legend of Zelda","author":"Zerthox / henry232323","version":"3"}*//{}
+/* "ClearVision - Sapphire v3" by @Zerthox */
+/* Based on "Discord Reborn v4.30" by @Omniscient & "DarkMatter" by @Hammock */
+
+/* IMPORT CSS FROM GITHUB */
+@import url(https://rawgit.com/Zerthox/ClearVision/master/css/ClearVision.css);
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+IMPORTANT: CHANGE BETWEEN DARK AND LIGHT VERSION IN APPEARANCE SETTINGS!
+---------------------------------------------------------------------------------------------------------------------------------------------
+*/
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+================ IMPORTANT LINKS =================
+Latest version: https://git.io/v6Muk
+Changelog: https://git.io/v6r5N
+RemoveShadows theme: https://git.io/v6MuU IMPORTANT: Activate on top of a ClearVision theme!
+---------------------------------------------------------------------------------------------------------------------------------------------
+*/
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+===== CUSTOMIZABLE COLORS & BACKGROUND IMAGE =====
+*/
+:root {
+	--main-color: #5fa1ec;
+	--hover-color: #3b87de;
+	--background-image: url(https://i.imgur.com/0zMlUai.jpg); /* IMPORTANT: Link must be HTTPS! */
+}
+/*
+--------------------------------------------------------------------------------------------------------------------------------------------
+*/
