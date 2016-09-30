@@ -17,3 +17,12 @@ Visit the Wiki page to learn more about how to install customize your theme: [Cl
 
 ##Jade / Emerald
 ![Jade](https://raw.githubusercontent.com/henry232323/Homestuck-ClearVision/master/clearvision-jade.JPG)
+
+##Steel
+![Steel](https://raw.githubusercontent.com/henry232323/Homestuck-ClearVision/master/lozsteelpreview.JPG)
+
+##Stone
+![Stone](https://raw.githubusercontent.com/henry232323/Homestuck-ClearVision/master/lozstonepreview.JPG)
+
+##Dark
+![Dark](https://raw.githubusercontent.com/henry232323/Homestuck-ClearVision/master/lozdarkpreview.JPG)
