@@ -4,7 +4,8 @@ Join for *update notifications* and *theme support*!
 **Instant Invite:** https://discord.gg/FtYVPky
 
 #Installation & Customization
-Visit the Wiki page to learn more about how to install customize your theme: [ClearVision Wiki](https://github.com/Zerthox/ClearVision/wiki)
+Info on BetterDiscord and themes
+Visit the Wiki page to learn more about how to install and customize your theme: [ClearVision Wiki](https://github.com/Zerthox/ClearVision/wiki)
 
 ##Rose / Amethyst
 ![Rose](https://raw.githubusercontent.com/henry232323/Homestuck-ClearVision/master/clearvision-rose.JPG)
